@@ -1,16 +1,10 @@
 # mycalc
 
-A new Flutter project.
+A journey being with this Flutter project.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+This is how the look of this Calcu appeared.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2024-09-18 at 22 06 30_a3bd4467](https://github.com/user-attachments/assets/3d5efe0b-3e73-45ec-b872-6dc2dc11a097)
